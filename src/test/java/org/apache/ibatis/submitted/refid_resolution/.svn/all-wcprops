@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3624/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution
+END
+Mapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/3624/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/Mapper.xml
+END
+MapperConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/3624/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/MapperConfig.xml
+END
+RefidResolutionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/3624/trunk/src/test/java/org/apache/ibatis/submitted/refid_resolution/RefidResolutionTest.java
+END

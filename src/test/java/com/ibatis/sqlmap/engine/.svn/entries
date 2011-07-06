@@ -1,0 +1,49 @@
+10
+
+dir
+3829
+http://mybatis.googlecode.com/svn/trunk/src/test/java/com/ibatis/sqlmap/engine
+http://mybatis.googlecode.com/svn
+
+
+
+2011-01-25T18:57:27.731699Z
+3587
+jeffgbutler
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a4a4fef-ff2a-56b0-fee9-946765563393
+
+impl
+dir
+
+cache
+dir
+
+execution
+dir
+
+transaction
+dir
+
+builder
+dir
+
+datasource
+dir
+
+mapping
+dir
+

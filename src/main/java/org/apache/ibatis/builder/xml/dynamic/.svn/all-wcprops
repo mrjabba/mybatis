@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3820/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic
+END
+WhereSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/WhereSqlNode.java
+END
+TrimSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/2620/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/TrimSqlNode.java
+END
+SetSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/SetSqlNode.java
+END
+ExpressionEvaluator.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3614/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/ExpressionEvaluator.java
+END
+IfSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/IfSqlNode.java
+END
+SqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/SqlNode.java
+END
+DynamicSqlSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/2620/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/DynamicSqlSource.java
+END
+ChooseSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/ChooseSqlNode.java
+END
+DynamicContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/3820/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/DynamicContext.java
+END
+TextSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3614/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/TextSqlNode.java
+END
+MixedSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/MixedSqlNode.java
+END
+ForEachSqlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/builder/xml/dynamic/ForEachSqlNode.java
+END

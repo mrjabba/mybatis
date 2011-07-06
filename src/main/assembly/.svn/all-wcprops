@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/3739/trunk/src/main/assembly
+END
+bundle.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3042/trunk/src/main/assembly/bundle.xml
+END
+migrations.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3739/trunk/src/main/assembly/migrations.xml
+END

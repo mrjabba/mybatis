@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3709/trunk/src/main/java/org/apache/ibatis/reflection
+END
+Reflector.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/reflection/Reflector.java
+END
+ReflectionException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2065/trunk/src/main/java/org/apache/ibatis/reflection/ReflectionException.java
+END
+ExceptionUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/3709/trunk/src/main/java/org/apache/ibatis/reflection/ExceptionUtil.java
+END
+MetaClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/reflection/MetaClass.java
+END
+MetaObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/reflection/MetaObject.java
+END

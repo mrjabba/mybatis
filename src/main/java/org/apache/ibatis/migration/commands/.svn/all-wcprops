@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2627/trunk/src/main/java/org/apache/ibatis/migration/commands
+END
+InitializeCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/commands/InitializeCommand.java
+END
+StatusCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/commands/StatusCommand.java
+END
+ScriptCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/commands/ScriptCommand.java
+END
+UpCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/commands/UpCommand.java
+END
+PendingCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/commands/PendingCommand.java
+END
+VersionCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/commands/VersionCommand.java
+END
+DownCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2627/trunk/src/main/java/org/apache/ibatis/migration/commands/DownCommand.java
+END
+NewCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/2426/trunk/src/main/java/org/apache/ibatis/migration/commands/NewCommand.java
+END
+BaseCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2426/trunk/src/main/java/org/apache/ibatis/migration/commands/BaseCommand.java
+END
+BootstrapCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/commands/BootstrapCommand.java
+END
+Command.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/commands/Command.java
+END

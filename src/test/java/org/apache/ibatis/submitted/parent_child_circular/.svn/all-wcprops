@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/3288/trunk/src/test/java/org/apache/ibatis/submitted/parent_child_circular
+END
+ParentChildCircularTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/submitted/parent_child_circular/ParentChildCircularTest.java
+END
+Node.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/submitted/parent_child_circular/Node.java
+END
+NodeMapper.xml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/3288/trunk/src/test/java/org/apache/ibatis/submitted/parent_child_circular/NodeMapper.xml
+END
+NodeMapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/submitted/parent_child_circular/NodeMapper.java
+END

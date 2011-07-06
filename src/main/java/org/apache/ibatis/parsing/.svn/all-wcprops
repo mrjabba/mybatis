@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3564/trunk/src/main/java/org/apache/ibatis/parsing
+END
+PropertyParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/parsing/PropertyParser.java
+END
+XPathParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/3564/trunk/src/main/java/org/apache/ibatis/parsing/XPathParser.java
+END
+ParsingException.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/2065/trunk/src/main/java/org/apache/ibatis/parsing/ParsingException.java
+END
+GenericTokenParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/parsing/GenericTokenParser.java
+END
+XNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2624/trunk/src/main/java/org/apache/ibatis/parsing/XNode.java
+END
+TokenHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/parsing/TokenHandler.java
+END

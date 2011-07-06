@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/3587/trunk/src/main/java/org/apache/ibatis/datasource/unpooled
+END
+UnpooledDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/datasource/unpooled/UnpooledDataSource.java
+END
+UnpooledDataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/3587/trunk/src/main/java/org/apache/ibatis/datasource/unpooled/UnpooledDataSourceFactory.java
+END

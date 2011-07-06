@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/3810/trunk/src/main/java/org/apache/ibatis/executor/loader
+END
+ResultLoaderMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/3810/trunk/src/main/java/org/apache/ibatis/executor/loader/ResultLoaderMap.java
+END
+ResultLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/3645/trunk/src/main/java/org/apache/ibatis/executor/loader/ResultLoader.java
+END
+ResultObjectProxy.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3725/trunk/src/main/java/org/apache/ibatis/executor/loader/ResultObjectProxy.java
+END
+WriteReplaceInterface.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/3396/trunk/src/main/java/org/apache/ibatis/executor/loader/WriteReplaceInterface.java
+END
+SerialStateHolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/3396/trunk/src/main/java/org/apache/ibatis/executor/loader/SerialStateHolder.java
+END

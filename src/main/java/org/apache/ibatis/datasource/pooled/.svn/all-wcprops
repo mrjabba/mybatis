@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/datasource/pooled
+END
+PooledConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/datasource/pooled/PooledConnection.java
+END
+PooledDataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/datasource/pooled/PooledDataSourceFactory.java
+END
+PoolState.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/datasource/pooled/PoolState.java
+END
+PooledDataSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/datasource/pooled/PooledDataSource.java
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/submitted/initialized_collection_property/db
+END
+create.sql
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/submitted/initialized_collection_property/db/create.sql
+END

@@ -1,0 +1,116 @@
+10
+
+dir
+3829
+http://mybatis.googlecode.com/svn/trunk/src/test/java/org/apache/ibatis
+http://mybatis.googlecode.com/svn
+
+
+
+2011-07-02T16:21:38.847074Z
+3829
+eduardo.macarron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a4a4fef-ff2a-56b0-fee9-946765563393
+
+metadata
+dir
+
+type
+dir
+
+exceptions
+dir
+
+session
+dir
+
+BaseDataTest.java
+file
+
+
+
+
+2011-07-06T22:57:54.559367Z
+91e84bc18955a41d56c9bbf469f8c4c6
+2010-11-02T03:30:05.759421Z
+3018
+nathan.maves
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3125
+
+transaction
+dir
+
+logging
+dir
+
+builder
+dir
+
+migration
+dir
+
+datasource
+dir
+
+reflection
+dir
+
+plugin
+dir
+
+executor
+dir
+
+submitted
+dir
+
+jdbc
+dir
+
+cache
+dir
+
+parsing
+dir
+
+io
+dir
+
+binding
+dir
+

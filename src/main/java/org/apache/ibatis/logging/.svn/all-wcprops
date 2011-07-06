@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/3463/trunk/src/main/java/org/apache/ibatis/logging
+END
+LogException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2616/trunk/src/main/java/org/apache/ibatis/logging/LogException.java
+END
+Log.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/logging/Log.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/3463/trunk/src/main/java/org/apache/ibatis/logging/LogFactory.java
+END

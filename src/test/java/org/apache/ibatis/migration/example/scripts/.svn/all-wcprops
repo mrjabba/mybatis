@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/2065/trunk/src/test/java/org/apache/ibatis/migration/example/scripts
+END
+20080827200211_create_author.sql
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/migration/example/scripts/20080827200211_create_author.sql
+END
+20080827200212_create_blog.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/migration/example/scripts/20080827200212_create_blog.sql
+END
+20080827200210_create_changelog.sql
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/migration/example/scripts/20080827200210_create_changelog.sql
+END
+20080827200214_create_comments.sql
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/migration/example/scripts/20080827200214_create_comments.sql
+END
+20080827200213_create_tags_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/migration/example/scripts/20080827200213_create_tags_posts.sql
+END
+bootstrap.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/2065/trunk/src/test/java/org/apache/ibatis/migration/example/scripts/bootstrap.sql
+END
+20080827200215_create_procs.sql
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/1949/trunk/src/test/java/org/apache/ibatis/migration/example/scripts/20080827200215_create_procs.sql
+END

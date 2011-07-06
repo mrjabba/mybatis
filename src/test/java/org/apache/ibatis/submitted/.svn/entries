@@ -1,0 +1,148 @@
+10
+
+dir
+3829
+http://mybatis.googlecode.com/svn/trunk/src/test/java/org/apache/ibatis/submitted
+http://mybatis.googlecode.com/svn
+
+
+
+2011-07-02T16:21:38.847074Z
+3829
+eduardo.macarron
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6a4a4fef-ff2a-56b0-fee9-946765563393
+
+parent_child_circular
+dir
+
+integer_enum
+dir
+
+nested
+dir
+
+null_with_no_jdbctype
+dir
+
+encoding
+dir
+
+count
+dir
+
+cglib_lazy_error
+dir
+
+duplicate_resource_loaded
+dir
+
+dynsql2
+dir
+
+enumtypehandler_on_map
+dir
+
+multidb
+dir
+
+quotedcolumnnames
+dir
+
+includes
+dir
+
+complex_property
+dir
+
+lazy_immutable
+dir
+
+blobtest
+dir
+
+manyanno
+dir
+
+multiple_discriminator
+dir
+
+map_class_name_conflict
+dir
+
+ognl_enum
+dir
+
+substitution_in_annots
+dir
+
+complex_column
+dir
+
+initialized_collection_property
+dir
+
+extend
+dir
+
+selectkey
+dir
+
+null_associations
+dir
+
+lazyload_common_property
+dir
+
+overwritingproperties
+dir
+
+criterion
+dir
+
+xml_external_ref
+dir
+
+xml_references
+dir
+
+deferload_common_property
+dir
+
+sptests
+dir
+
+keycolumn
+dir
+
+flush_statement_npe
+dir
+
+primitive_result_type
+dir
+
+not_null_column
+dir
+
+dynsql
+dir
+
+refcursor
+dir
+
+refid_resolution
+dir
+

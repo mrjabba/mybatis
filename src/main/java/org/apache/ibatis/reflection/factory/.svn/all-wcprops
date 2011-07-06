@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/3389/trunk/src/main/java/org/apache/ibatis/reflection/factory
+END
+DefaultObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/3389/trunk/src/main/java/org/apache/ibatis/reflection/factory/DefaultObjectFactory.java
+END
+ObjectFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/reflection/factory/ObjectFactory.java
+END

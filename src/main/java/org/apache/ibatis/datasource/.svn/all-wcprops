@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/3587/trunk/src/main/java/org/apache/ibatis/datasource
+END
+DataSourceFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/datasource/DataSourceFactory.java
+END
+DataSourceException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/2065/trunk/src/main/java/org/apache/ibatis/datasource/DataSourceException.java
+END

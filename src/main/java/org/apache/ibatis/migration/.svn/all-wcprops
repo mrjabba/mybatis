@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/3741/trunk/src/main/java/org/apache/ibatis/migration
+END
+template_changelog.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/template_changelog.sql
+END
+template_migration.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/template_migration.sql
+END
+Migrator.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/Migrator.java
+END
+Change.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2626/trunk/src/main/java/org/apache/ibatis/migration/Change.java
+END
+CommandLine.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/3741/trunk/src/main/java/org/apache/ibatis/migration/CommandLine.java
+END
+template_bootstrap.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/2065/trunk/src/main/java/org/apache/ibatis/migration/template_bootstrap.sql
+END
+template_README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/3740/trunk/src/main/java/org/apache/ibatis/migration/template_README
+END
+MigrationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/2065/trunk/src/main/java/org/apache/ibatis/migration/MigrationException.java
+END
+template_environment.properties
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/template_environment.properties
+END
+MigrationReader.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/1949/trunk/src/main/java/org/apache/ibatis/migration/MigrationReader.java
+END
